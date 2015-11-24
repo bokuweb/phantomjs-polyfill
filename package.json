@@ -1,11 +1,11 @@
 {
-    "name": "phantomjs-polyfill",
+    "name": "phantomjs-polyfill-plus",
     "version": "0.0.1",
-    "description": "Polyfill for Function.prototype.bind",
+    "description": "Polyfill for Function.prototype.bind and Object.prototype.assign",
     "main": "bind-polyfill.js",
     "repository": {
         "type": "git",
-        "url": "git@github.com:conversocial/phantomjs-polyfill.git"
+        "url": "git@github.com:bokuweb/phantomjs-polyfill-plus.git"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,10 +15,10 @@
         "bind",
         "polyfill"
     ],
-    "author": "Tom Watson <tom.watson@conversocial.com>",
+    "author": "Bokuweb",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/conversocial/phantomjs-polyfill/issues"
+        "url": "phantomjs-polyfill-plus/issues"
     },
-    "homepage": "https://github.com/conversocial/phantomjs-polyfill"
+    "homepage": "https://github.com/bokuweb/phantomjs-polyfill-plus/"
 }
